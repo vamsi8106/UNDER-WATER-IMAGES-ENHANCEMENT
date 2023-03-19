@@ -42,21 +42,14 @@ Input Image
 Output Image  
 ![output_hist](https://user-images.githubusercontent.com/99885183/226164840-1d6e8164-5bbd-4f03-82c9-5809a1d62bb3.jpeg)
 
-<table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td><img src="![ideal_lpf](https://user-images.githubusercontent.com/99885183/226165007-058beb65-b587-4f85-a40e-b8fc06cce168.jpeg)
-" width=270 height=480></td>
-    <td><img src="![hist_equ](https://user-images.githubusercontent.com/99885183/226165029-3cd129cc-72a5-4f54-9879-63357f045575.jpeg)
-" width=270 height=480></td>
-    <td><img src="![output_lpf](https://user-images.githubusercontent.com/99885183/226165050-471901cb-6abe-43b7-82cf-dc9035538567.jpeg)
-" width=270 height=480></td>
-  </tr>
- </table>
+<p align="center">
+      <img src="![output_lpf](https://user-images.githubusercontent.com/99885183/226165123-6c64a3bc-7143-4030-b82a-201dfbd997ce.jpeg)
+" align="left">
+      <img src="![output_hist](https://user-images.githubusercontent.com/99885183/226165127-cf07dfa8-d92c-48c6-b643-e28a9a5b52e8.jpeg)
+">
+      <img src="![ideal_lpf](https://user-images.githubusercontent.com/99885183/226165131-9c9be2a1-87da-4485-ab0c-3124152cc111.jpeg)
+" align="right">
+</p>
 
 ### Dependencies
 
