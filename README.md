@@ -39,8 +39,12 @@ These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
 ### Results
 
 ### Dependencies
--OpenCV 3.4.8
+
+-OpenCV 
+
 -NumPy
+
 -Matplotlib
+
 -tensor flow
 
