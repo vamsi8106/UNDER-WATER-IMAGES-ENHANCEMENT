@@ -41,10 +41,7 @@ These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
 ### Dependencies
 
 -OpenCV 
-
 -NumPy
-
 -Matplotlib
-
 -tensor flow
 
