@@ -23,12 +23,15 @@ Objectives-
 1. Denoising Filter
 2. Neural Network
 
-Image are taken from the http://umpir.ump.edu.my/id/eprint/26347/
-
-Colorization model reference https://github.com/balajisrinivas/Colorizing-black-and-white-images-using-Python/tree/master
-
-Image Enhacement measure reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
 
 ### Steps to run the project files- 
 Image data set:https://drive.google.com/drive/u/2/folders/1oF57Zg4ACdHA5NCgVTXFSyorNf3H6ELP
+These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
+- Enhance the under water images using a suitable method as per required application. 
+- Use the "CV_PROJECT_1.ipynb" file to enhance the images. 
+- Make sure u downloaded below mentioned files before running CV_PROJECT_1.
+   Colorization model reference https://github.com/balajisrinivas/Colorizing-black-and-white-images-using-Python/tree/master
+   Image Enhacement measure reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
+
+
 
