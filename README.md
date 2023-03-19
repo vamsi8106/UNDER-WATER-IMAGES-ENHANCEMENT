@@ -51,4 +51,4 @@ Report Link:
 -tensor flow  
 ### References  
 -Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py  
--https://dl.icdst.org/pdfs/files4/01c56e081202b62bd7d3b4f8545775fb.pdf
+-Book Referred https://dl.icdst.org/pdfs/files4/01c56e081202b62bd7d3b4f8545775fb.pdf
