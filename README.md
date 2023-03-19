@@ -31,8 +31,8 @@ Image data set:https://drive.google.com/drive/folders/1N0i6OxNmk2QOTvJS857XZKjsO
 These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
 - Enhance the under water images using a suitable method as per required application. 
 - Use the "CV_PROJECT_1.ipynb" file to enhance the images. 
-- Make sure u downloaded below mentioned files before running CV_PROJECT_1.
-   Colorization model reference https://github.com/balajisrinivas/Colorizing-black-and-white-images-using-Python/tree/master
+- Make sure u downloaded below mentioned files before running CV_PROJECT_1.  
+   Colorization model reference https://github.com/balajisrinivas/Colorizing-black-and-white-images-using-Python/tree/master  
    
    Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
 
