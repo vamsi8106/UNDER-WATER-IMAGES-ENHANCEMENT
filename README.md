@@ -24,6 +24,7 @@ Objectives-
 2. Neural Network
 
 Image are taken from the http://umpir.ump.edu.my/id/eprint/26347/
+Colorization model reference https://github.com/balajisrinivas/Colorizing-black-and-white-images-using-Python/tree/master
+Image Enhacement measure reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
 
- 
 Steps to run the project files- 
