@@ -1,5 +1,7 @@
+
 # UNDER-WATER-IMAGES-ENHANCEMENT
-Enhancing under water Images using various methods
+## Abstract
+Underwater images find application in various fields, like marine research, inspection of aquatic habitat, underwater surveillance, identification of minerals, and more. However, underwater shots are affected a lot during the acquisition process due to the absorption and scattering of light.Hence, underwater images need enhancement to improve the quality of images to be used for various applications while preserving the valuable information contained in them.
 
 Objectives- 
 - To enhace underwater images for reserach purpose to explore acquatic system.
