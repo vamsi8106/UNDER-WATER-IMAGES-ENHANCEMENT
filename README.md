@@ -37,6 +37,8 @@ These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
    Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
 
 ### Results
+![1](https://user-images.githubusercontent.com/99885183/226164723-d9d8bf2f-71db-40b3-923a-d418beb7e331.jpeg)
+
 
 ### Dependencies
 
