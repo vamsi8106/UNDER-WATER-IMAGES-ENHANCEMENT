@@ -15,8 +15,7 @@ spatial domain techniques are
 5. High Boost Filter
 6. Bilateral Filter
 Frequency domain techniques are 
-1. Ideal Low Pass and
-High Pass Filters
+1. Ideal Low Pass and High Pass Filters
 2. Butterworth Low Pass and High Pass Filters
 3. Gaussian Low Pass and High Pass Filters
 4. Homomorphic Filter
