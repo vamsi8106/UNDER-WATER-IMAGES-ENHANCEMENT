@@ -41,7 +41,7 @@ Input Image
 Output Image  
 ![output_hist](https://user-images.githubusercontent.com/99885183/226164840-1d6e8164-5bbd-4f03-82c9-5809a1d62bb3.jpeg)
 ### Links 
-Report Link:
+Report Link:https://drive.google.com/file/d/1b1Zdz4bXU7G_fEhVsqw430OT1NdrCv_6/view?usp=share_link  
 Youtube Link:https://youtu.be/a1sDvbHq46w  
 
 
