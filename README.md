@@ -37,7 +37,9 @@ These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
    Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
 
 ### Results
+Input Image                                       Ideal LPF output
 ![1](https://user-images.githubusercontent.com/99885183/226164723-d9d8bf2f-71db-40b3-923a-d418beb7e331.jpeg)
+![ideal_lpf](https://user-images.githubusercontent.com/99885183/226164783-635bffa9-ebdb-4d4e-b814-8f5889f4b815.jpeg)
 
 
 ### Dependencies
