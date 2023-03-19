@@ -26,15 +26,14 @@ Objectives-
 2. Neural Network
 
 
-### Steps to run the project files- 
+### Steps to run the project files
 Image data set:https://drive.google.com/drive/folders/1N0i6OxNmk2QOTvJS857XZKjsOyLA9nUS?usp=share_link   
 These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
 - Enhance the under water images using a suitable method as per required application. 
 - Use the "CV_PROJECT_1.ipynb" file to enhance the images. 
 - Make sure u downloaded below mentioned files before running CV_PROJECT_1.  
    Colorization model reference https://github.com/balajisrinivas/Colorizing-black-and-white-images-using-Python/tree/master  
-   
-   Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
+
 
 ### Results
 Input Image   
@@ -45,10 +44,11 @@ Output Image
 Youtube Link:
 Report Link:
 
-### Dependencies
-
+### Dependencies  
 -OpenCV  
 -NumPy  
 -Matplotlib  
 -tensor flow  
-
+### References  
+-Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py  
+-https://dl.icdst.org/pdfs/files4/01c56e081202b62bd7d3b4f8545775fb.pdf
