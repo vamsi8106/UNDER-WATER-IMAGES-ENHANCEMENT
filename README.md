@@ -6,7 +6,7 @@ Objectives-
 - To study various methods available for enhancing under water images.
 
 Under water Image enhancement:
-Methods for low light image enhancement- 
+Methods for under Water image enhancement- 
 spatial domain techniques are
 1. Blur and Sharpen filters
 2. Histogram Equalisation
