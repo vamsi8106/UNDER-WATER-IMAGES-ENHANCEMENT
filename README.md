@@ -38,7 +38,7 @@ These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
 
 ### Results
 Input Image   
-![1](https://user-images.githubusercontent.com/99885183/226164723-d9d8bf2f-71db-40b3-923a-d418beb7e331.jpeg)
+![1](https://user-images.githubusercontent.com/99885183/226164723-d9d8bf2f-71db-40b3-923a-d418beb7e331.jpeg)  
 Output Image  
 ![output_hist](https://user-images.githubusercontent.com/99885183/226164840-1d6e8164-5bbd-4f03-82c9-5809a1d62bb3.jpeg)
 
