@@ -21,7 +21,7 @@ Objectives-
 3. Gaussian Low Pass and High Pass Filters
 4. Homomorphic Filter
 5. Wavelet Transform
-### Some Advanced techniques tried are
+### Some Other techniques tried are
 1. Denoising Filter
 2. Neural Network
 
