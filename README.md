@@ -36,5 +36,11 @@ These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
    
    Image Enhacement measures reference https://github.com/andrewekhalel/sewar/blob/master/sewar/full_ref.py
 
+### Results
 
+### Dependencies
+-OpenCV 3.4.8
+-NumPy
+-Matplotlib
+-tensor flow
 
