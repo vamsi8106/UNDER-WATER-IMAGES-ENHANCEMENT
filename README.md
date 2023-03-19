@@ -27,7 +27,7 @@ Objectives-
 
 
 ### Steps to run the project files- 
-Image data set:https://drive.google.com/drive/u/2/folders/1oF57Zg4ACdHA5NCgVTXFSyorNf3H6ELP
+Image data set:https://drive.google.com/drive/u/2/folders/1oF57Zg4ACdHA5NCgVTXFSyorNf3H6ELP  
 These images are taken from  http://umpir.ump.edu.my/id/eprint/26347/
 - Enhance the under water images using a suitable method as per required application. 
 - Use the "CV_PROJECT_1.ipynb" file to enhance the images. 
