@@ -42,14 +42,6 @@ Input Image
 Output Image  
 ![output_hist](https://user-images.githubusercontent.com/99885183/226164840-1d6e8164-5bbd-4f03-82c9-5809a1d62bb3.jpeg)
 
-<p align="center">
-      <img src="![output_lpf](https://user-images.githubusercontent.com/99885183/226165123-6c64a3bc-7143-4030-b82a-201dfbd997ce.jpeg)
-" align="left">
-      <img src="![output_hist](https://user-images.githubusercontent.com/99885183/226165127-cf07dfa8-d92c-48c6-b643-e28a9a5b52e8.jpeg)
-">
-      <img src="![ideal_lpf](https://user-images.githubusercontent.com/99885183/226165131-9c9be2a1-87da-4485-ab0c-3124152cc111.jpeg)
-" align="right">
-</p>
 
 ### Dependencies
 
